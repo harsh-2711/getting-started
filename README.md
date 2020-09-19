@@ -1,8 +1,10 @@
 # getting-started
 
+Get started with your next big project without worrying trying multiple frontend-backend combinations or getting stuck with figuring out how to pass environment variables in Kubernetes pods, etc.
+
 ## 📌 Introduction
 
-This repository contains information of almost all the tools and technologies used in Software Development to get you started with your next project.
+This repository contains information of almost all the tools and technologies used in Software Development to get you started with your next project. Each folder in this repository represents a technology which can be used to build your next big project. Every folder contains a boilerplate template to get you started with your project. The folder also contains one `README` file which will help you get acquainted with ABCs of that particular technology/language, if your starting new or are an explorere (like me 😁)
 
 ## ⭐ How to get started?
 
@@ -31,6 +33,8 @@ Replace `domain` with the top-level directory name i.e. frontend, backend, etc. 
 
 
 ## 💥 How to Contribute?
+
+I am always looking forward to add templates for new technologies in this repository or enhance the  existing ones, so any type of contribution in form of PR is welomed 😃
 
 - Take a look at [existing issues](https://github.com/harsh-2711/getting-started/issues) or create your own issues
 - Wait for the Issue to be assigned to you after which you can start working on it
