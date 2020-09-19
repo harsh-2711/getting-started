@@ -46,6 +46,37 @@ I am always looking forward to add templates for new technologies in this reposi
 
 ## ✅ TODOs
 
+Following are the next set of templates which are needed -
+
+### Frontend
+[] Bootstrap
+[] React
+[] Angular
+[] Vue
+
+### Backend
+[] Node
+[] Flask
+[] Django
+[] PHP
+[] Spring boot
+[] Golang
+
+### Devops
+[] Docker
+[] Kubernetes
+[] Prometheus
+[] Jenkins
+[] Ansible 
+[] Chef
+[] Puppet
+[] Travis
+
+### Mobile
+[] Android
+[] Flutter
+[] Swift
+
 
 ## ✨Contributors
 
