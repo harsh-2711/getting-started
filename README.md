@@ -8,14 +8,16 @@ This repository contains information of almost all the tools and technologies us
 
 Following is the top-level directory layout of the repository -
 
+```
 .
-├── frontend                   # Templates for frontend technologies
-├── backend                  # Templates for backend technologies
-├── devops                    # Templates for devops tools
-├── mobile                     # Templates for mobile technologies
-├── full-stack                 # Templates for combination of frontend and backend technologies
+├── frontend             # Templates for frontend technologies
+├── backend              # Templates for backend technologies
+├── devops               # Templates for devops tools
+├── mobile               # Templates for mobile technologies
+├── full-stack           # Templates for combination of frontend and backend technologies
 ├── LICENSE
 └── README.md
+```
 
 Each folder contains multiple sub-folders which contains the template 
 
