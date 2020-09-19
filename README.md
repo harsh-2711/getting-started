@@ -4,7 +4,7 @@ Get started with your next big project without worrying trying multiple frontend
 
 ## 📌 Introduction
 
-This repository contains information of almost all the tools and technologies used in Software Development to get you started with your next project. Each folder in this repository represents a technology which can be used to build your next big project. Every folder contains a boilerplate template to get you started with your project. The folder also contains one `README` file which will help you get acquainted with ABCs of that particular technology/language, if your starting new or are an explorere (like me 😁)
+This repository contains information of almost all the tools and technologies used in Software Development to get you started with your next project. Each folder in this repository represents a technology which can be used to build your next big project. Every folder contains a boilerplate template to get you started with your project. The folder also contains one `README` file which will help you get acquainted with ABCs of that particular technology/language, if your starting new or are an explorer (like me 😁)
 
 ## ⭐ How to get started?
 
