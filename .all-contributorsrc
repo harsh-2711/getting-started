@@ -1,0 +1,13 @@
+{
+	"files": ["README.md"],
+	"imageSize": 100,
+	"commit": false,
+	"contributorsPerLine": 7,
+	"contributorsSortAlphabetically": false,
+	"projectName": "getting-started",
+	"projectOwner": "harsh-2711",
+	"repoType": "github",
+	"repoHost": "https://github.com",
+	"skipCi": "true",
+	"contributors": []
+}

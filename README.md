@@ -80,6 +80,7 @@ Following are the next set of templates which are needed (see linked issues for 
 
 ## ✨Contributors
 
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## Project Admin
 
