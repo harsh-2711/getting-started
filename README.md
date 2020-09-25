@@ -85,6 +85,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
+<table>
+  <tr>
+    <td align="center"><a href="https://www.Sterlingmedialabs.com"><img src="https://avatars3.githubusercontent.com/u/69767955?v=4" width="100px;" alt=""/><br /><sub><b>Shantanu Jain</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=helloshantanu" title="Documentation">📖</a> </td>
+  </tr>
+</table>
+
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
