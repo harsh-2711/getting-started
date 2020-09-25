@@ -1,13 +1,25 @@
 {
-	"files": ["README.md"],
-	"imageSize": 100,
-	"commit": false,
-	"contributorsPerLine": 7,
-	"contributorsSortAlphabetically": false,
-	"projectName": "getting-started",
-	"projectOwner": "harsh-2711",
-	"repoType": "github",
-	"repoHost": "https://github.com",
-	"skipCi": "true",
-	"contributors": []
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "projectName": "getting-started",
+  "projectOwner": "harsh-2711",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "helloshantanu",
+      "name": "Shantanu Jain",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/69767955?v=4",
+      "profile": "https://www.Sterlingmedialabs.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
 }
