@@ -34,7 +34,7 @@ Replace `domain` with the top-level directory name i.e. frontend, backend, etc. 
 
 ## 💥 How to Contribute?
 
-I am always looking forward to add templates for new technologies in this repository or enhance the  existing ones, so any type of contribution in form of PR is welomed 😃
+I am always looking forward to add templates for new technologies in this repository or enhance the  existing ones, so any type of contribution in form of PR is welcomed 😃
 
 - Take a look at [existing issues](https://github.com/harsh-2711/getting-started/issues) or create your own issues
 - Wait for the Issue to be assigned to you after which you can start working on it
