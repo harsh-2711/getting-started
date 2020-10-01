@@ -84,10 +84,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-
 <table>
   <tr>
-    <td align="center"><a href="https://www.Sterlingmedialabs.com"><img src="https://avatars3.githubusercontent.com/u/69767955?v=4" width="100px;" alt=""/><br /><sub><b>Shantanu Jain</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=helloshantanu" title="Documentation">📖</a> </td>
+    <td align="center"><a href="https://www.Sterlingmedialabs.com"><img src="https://avatars3.githubusercontent.com/u/69767955?v=4" width="100px;" alt=""/><br /><sub><b>Shantanu Jain</b></sub></a><br /><a href="https://github.com/harsh-2711/getting-started/commits?author=helloshantanu" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://atarax665.github.io"><img src="https://avatars1.githubusercontent.com/u/29673671?v=4" width="100px;" alt=""/><br /><sub><b>Abhinav Anand</b></sub></a><br /><a href="https://github.com/harsh-2711/getting-started/commits?author=atarax665" title="Documentation">📖</a></td>
   </tr>
 </table>
 
