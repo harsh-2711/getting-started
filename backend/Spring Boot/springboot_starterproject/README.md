@@ -6,8 +6,6 @@
 * Templete contains default configration of spring boot and servlet container. These configurations can be modified  using  `application.properties` file is present in project structure.<br>
 * Template is provided with basic Health Api to check project is deployed and working correctly.
 
-
-
 ## 📌 What You will build using this project
 * You will build a simple web application with Spring Boot.<br>
 * There will be a health API to check project is working correctly.<br>
@@ -22,8 +20,6 @@
 * Using IntelliJ or any similar IDE and Maven simple project<br>
 * Using Spring Tool Suite <br>
 * Using CLI<br>
-
-
 
 ## 📌 Important points to mark while creating Spring Boot Application
 * Spring Boot creates ```Stane-ALone``` Application. It means you will not require to install Tomcat Sever on your own (Perks of using Spring Boot)<br>
