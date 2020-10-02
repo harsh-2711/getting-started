@@ -49,26 +49,26 @@ I am always looking forward to add templates for new technologies in this reposi
 Following are the next set of templates which are needed (see linked issues for deep diving into sub-tasks) -
 
 ### Frontend
+- [ ] Angular
 - [ ] Bootstrap
 - [ ] React
-- [ ] Angular
 - [ ] Vue
 
 ### Backend
-- [ ] Node
-- [ ] Flask
 - [ ] Django
-- [ ] PHP
-- [ ] Spring boot
+- [ ] Flask
 - [ ] Golang
+- [ ] Node
+- [ ] PHP
+- [x] Spring boot
 
 ### Devops
+- [ ] Ansible
+- [ ] Chef
 - [ ] Docker
+- [ ] Jenkins
 - [ ] Kubernetes
 - [ ] Prometheus
-- [ ] Jenkins
-- [ ] Ansible 
-- [ ] Chef
 - [ ] Puppet
 - [ ] Travis
 
