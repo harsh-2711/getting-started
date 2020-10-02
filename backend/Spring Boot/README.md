@@ -1,7 +1,3 @@
-# Getting Started with Spring Boot Technology
-
-Get started learning Spring boot with templete  and basic funtionalities releted to Spring Boot provided in this folder.
-
 ## 📌 Introduction
 
 Spring Boot is an open source Java-based framework used to create a Micro Service. Developing Services with spring Boot is too cool.
@@ -18,17 +14,14 @@ To start working with Spring Boot, we will require to do basic installations.
 
 Checkout starter project and you will be ready to implement Spring Boot as your backend technology to create Services.<br>
 
-In this Repository, you will find the cool things about Spring Boot and Spring Boot Starter Projects.Basic REST Services will be made available to this folder .
+In this folder, you will find all the getting-started resources about Spring Boot and Spring Boot Starter Projects. Basic REST Services will be made available to this folder.
 
 ## 📌 Goal
-Provide quick start for projects with flavour of Spring Boot .<br>
-Provide a range of features that are common to large classes of projects
+Provide quick start for projects with flavour of Spring Boot.<br>
+Provide a range of features that are common to large classes of projects.
 
 
 ## 📌 Prerequisite to use Spring Boot
-You should know Java. You should understand usage of Annotations.<br>
+You should know Java. You should understand the usage of Annotations. You can learn more about Annotations from [here](https://springframework.guru/spring-framework-annotations/)<br>
 You should understand the basics of Spring framework.<br>
-A basic understanding of JPA.
-
-
-
+Should have a basic understanding of JPA.
