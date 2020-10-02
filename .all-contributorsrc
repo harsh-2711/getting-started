@@ -29,6 +29,17 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ektatank",
+      "name": "ektatank",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/42413237?v=4",
+      "profile": "https://github.com/ektatank",
+      "contributions": [
+        "code",
+        "test",
+        "doc"
+      ]
     }
   ]
 }
