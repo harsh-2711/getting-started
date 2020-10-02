@@ -5,14 +5,17 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 /**
- * created by Ekta on 01/10/2020
+ * HeallthController
+ *
+ * @author <Ekta Tank>
+ * @version 1.0
+ * @since Oct 1, 2020
  */
 
 @RestController
 public class HealthController {
-
     /**
-     * Api to check project is working correctly.
+     * Health Check API
      * @return string
      */
     @RequestMapping("/health")
