@@ -5,7 +5,7 @@ Bootstrap is a free, open-source front-end framework. It is used for designing a
 Bootstrap contains design templates based on HTML and CSS for loads of components. Components include navigation, typography, tables, buttons and much more… pretty much anything you put into a website really. There are also optional JavaScript plugins / extensions.
 
 The latest release is Bootstrap 4. It is more responsive than previous versions, has a bunch of new components and a faster stylesheet. Other significant changes from previous versions include a move from Less to Sass; dropping support for Internet Explorer 9 (and older); and adding flexbox support (alongside dropping non-flexbox support).
-## Why Bootstrap?
+## Reasons behind using Bootstrap
 In short, because Bootstrap makes front-end web development faster and easier!
 Bootstrap has been built in such a way that you really only need a beginner level knowledge of HTML and CSS to start using it. This means with very limited experience you are able to create some great looking, responsive sites and apps.
 
