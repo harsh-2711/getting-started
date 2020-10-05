@@ -16,7 +16,7 @@ Despite mobile being arguably the most important it is still essential we create
 Importantly Bootstrap is compatible with all modern browsers. These include Chrome, Safari, Firefox, Edge, Internet Explorer 10 and Opera. It even handles those annoying inconsistencies across browsers using Reboot.
 
 ## Starter Template
-It is possible to download the Bootstrap source files but, to get started quickly, I would recommend using the template below. It uses BootstrapCDN provided by StackPath. Using the CDN is also beneficial to your users as using it leads to faster load times. The template contains all stylesheets and scripts you need to build your Bootstrap powered sites and apps.
+It is possible to download the Bootstrap source files but, to get started quickly, the template mentioned below can be used for the same. It uses BootstrapCDN provided by StackPath. Using the CDN is also beneficial to your users as using it leads to faster load times. The template contains all stylesheets and scripts you need to build your Bootstrap powered sites and apps.
 ```html
 <!doctype html>
 <html lang="en">
