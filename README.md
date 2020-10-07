@@ -1,5 +1,3 @@
-# getting-started
-
 ![Project Banner](https://github.com/harsh-2711/getting-started/blob/master/images/project-banner.png?raw=true)
 
 Get started with your next big project without worrying trying multiple frontend-backend combinations or getting stuck with figuring out how to pass environment variables in Kubernetes pods, etc.
