@@ -32,7 +32,7 @@
 *   Spring Boot creates ```Stane-ALone``` Application. It means you will not require to install Tomcat Sever on your own (Perks of using Spring Boot). Learn more about this feature from [here](https://dzone.com/articles/what-is-spring-boot#:~:text=Being%20Standalone,applications%20that%20you%20can%20run.&text=You%20may%20think%20that%20running,run%20command%20and%20everything%20works.).<br>
 *   Default Port to run an application is 8080. We can change the port of application in the `application.properties` file. Check the `application.properties` file to check port configuration changed by me.Check more details for `application.properties`  from  [here](https://www.javatpoint.com/spring-boot-properties).
 
-##  Database configuration
+## Database configuration   
 *   Create a PostgreSQL database with the name  `SPRINGBOOT_STARTER` and add the credentials to `application.properties`.<br/>
 *   The default credentials and driver followed for this project :<br/>
     ```spring.datasource.driver-class-name=org.postgresql.Driver
@@ -44,13 +44,13 @@
 
 ## CRUD API provided by Spring Boot Starter Project 
 
-#### 1.To Create New USER use following url with POST Request.
+### 1.To Create New USER use following url with POST Request.
 ```
   http://localhost:8088/user/add
 ```
-#### set content type as in header as application/json
+### set content type as in header as application/json
 
-#### set request body as raw with JSON payload
+### set request body as raw with JSON payload
 ```  
     {
     	"name": "ekta",
@@ -60,24 +60,24 @@
     }
 
 ```
-#### 2. To get list of all USER following endpoint with GET Request.
+### 2. To get list of all USER following endpoint with GET Request
 ```
   http://localhost:8088/user/users
 ```
-#### 3.To get a particular  USE` using userid, use following url with GET request.
+### 3.To get a particular  USE` using userid, use following url with GET request
 ```
   http://localhost:8088/user/id/{userId}
 ```
-#### 4.To get a particular  USER using username, use following url with GET request.
+### 4.To get a particular  USER using username, use following url with GET request
 ```
   http://localhost:8088/user/name/{userName}
 ```
-#### 5.To update USER in database, use following url with PUT request.
+### 5.To update USER in database, use following url with PUT request
 ```
 	http://localhost:8088/user/update
 ```
-#### set content type as in header as application/json
-#### set request body as raw with JSON payload
+### set content type as in header as application/json
+### set request body as raw with JSON payload
 
 ```
  {
@@ -87,14 +87,14 @@
     "emailAddress": "ektatank@gmail.com"
 }
 ```
-#### 6. To delete list of all USER following endpoint with DELETE Request.
+### 6. To delete list of all USER following endpoint with DELETE Request
 ```
   http://localhost:8088/user/delete/users
 ```
-#### 7.To delete a particular USER using userid, use following url with DELETE request.
+### 7.To delete a particular USER using userid, use following url with DELETE request
 ```
   http://localhost:8088/user/delete/id/{userId}
 ```
-#### 8.To delete a particular USER using username, use following url with DELETE request.
+### 8.To delete a particular USER using username, use following url with DELETE request
 ```
   http://localhost:8088/user/delete/name/{userName}
