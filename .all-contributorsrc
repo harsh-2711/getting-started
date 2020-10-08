@@ -20,6 +20,26 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "atarax665",
+      "name": "Abhinav Anand",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29673671?v=4",
+      "profile": "http://atarax665.github.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ektatank",
+      "name": "ektatank",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/42413237?v=4",
+      "profile": "https://github.com/ektatank",
+      "contributions": [
+        "code",
+        "test",
+        "doc"
+      ]
     }
   ]
 }
