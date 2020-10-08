@@ -33,21 +33,23 @@
 *   Default Port to run an application is 8080. We can change the port of application in the `application.properties` file. Check the `application.properties` file to check port configuration changed by me.Check more details for `application.properties`  from  [here](https://www.javatpoint.com/spring-boot-properties).
 
 ## Database configuration   
-*   Create a PostgreSQL database with the name  `SPRINGBOOT_STARTER` and add the credentials to `application.properties`.<br/>
+*   Create a PostgreSQL database with the name  SPRINGBOOT_STARTER and add the credentials to application.properties. <br/>
+
 *   The default credentials and driver followed for this project :<br/>
     ```spring.datasource.driver-class-name=org.postgresql.Driver
     spring.datasource.url=jdbc:postgresql://localhost:6001/SPRINGBOOT_STARTER
     spring.datasource.username=postgres
     spring.datasource.password=root
-    spring.jpa.show-sql=true<br/>
-*   You can change database from postgreSQL to MySQL/Oracle by just changing these properties mentioned in `application.properties`.  
+    spring.jpa.show-sql=true <br/>
+    
+*   You can change database from postgreSQL to MySQL/Oracle by just changing these properties mentioned in `application.properties`. <br/>
 
 ## CRUD API provided by Spring Boot Starter Project 
 
-### 1.To Create New USER use following url with POST Request.
+### 1.To Create New USER use following url with POST Request
 ```
   http://localhost:8088/user/add
-```
+  
 ### set content type as in header as application/json
 
 ### set request body as raw with JSON payload
@@ -76,8 +78,8 @@
 ```
 	http://localhost:8088/user/update
 ```
-### set content type as in header as application/json
-### set request body as raw with JSON payload
+### set content type as in header as application/json for PUT request
+### set request body as raw with JSON payload to update user
 
 ```
  {
