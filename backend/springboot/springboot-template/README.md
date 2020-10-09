@@ -62,7 +62,7 @@
 }
 ```
 ### 2. To get list of all USER following endpoint with GET Request
-```
+```json
   http://localhost:8088/user/users
 ```
 ### 3.To get a particular  USE` using userid, use following url with GET request
