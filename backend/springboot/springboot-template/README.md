@@ -47,12 +47,12 @@
 
 ## CRUD API provided by Spring Boot Starter Project 
 
-### 1.To Create New USER use following url with POST Request
+**1.To Create New USER use following url with POST Request**
 ```json
    http://localhost:8088/user/add`
 ```
-### set content type as in header as application/json
-### set request body as raw with JSON payload
+  **set content type as in header as application/json**<br/>
+  **set request body as raw with JSON payload**
 
 ```json
  {
@@ -61,24 +61,24 @@
     "phoneNumber": "9999922222"
 }
 ```
-### 2. To get list of all USER following endpoint with GET Request
+**2. To get list of all USER following endpoint with GET Request**
 ```json
   http://localhost:8088/user/users
 ```
-### 3.To get a particular  USE` using userid, use following url with GET request
+ **3.To get a particular  USE using userid, use following url with GET request**
 ```json
   http://localhost:8088/user/id/{userId}
 ```
-### 4.To get a particular  USER using username, use following url with GET request
+**4.To get a particular  USER using username, use following url with GET request**
 ```json
   http://localhost:8088/user/name/{userName}
 ```
-### 5.To update USER in database, use following url with PUT request
+**5.To update USER in database, use following url with PUT request**
 ```json
    http://localhost:8088/user/update
 ```
-### set content type as in header as application/json for PUT request
-### set request body as raw with JSON payload to update user
+**set content type as in header as application/json for PUT request**<br/>
+**set request body as raw with JSON payload to update user**
 
 ```json
  {
@@ -88,15 +88,15 @@
     "emailAddress": "ektatank@gmail.com"
 }
 ```
-### 6. To delete list of all USER following endpoint with DELETE Request
+**6. To delete list of all USER following endpoint with DELETE Request**
 ```json
   http://localhost:8088/user/delete/users
 ```
-### 7.To delete a particular USER using userid, use following url with DELETE request
+**7.To delete a particular USER using userid, use following url with DELETE request**
 ```json
   http://localhost:8088/user/delete/id/{userId}
 ```
-### 8.To delete a particular USER using username, use following url with DELETE request
+**8.To delete a particular USER using username, use following url with DELETE request**
 ```json
   http://localhost:8088/user/delete/name/{userName}
 ```
