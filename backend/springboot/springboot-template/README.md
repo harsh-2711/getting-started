@@ -32,7 +32,7 @@
 *   Spring Boot creates ```Stane-ALone``` Application. It means you will not require to install Tomcat Sever on your own (Perks of using Spring Boot). Learn more about this feature from [here](https://dzone.com/articles/what-is-spring-boot#:~:text=Being%20Standalone,applications%20that%20you%20can%20run.&text=You%20may%20think%20that%20running,run%20command%20and%20everything%20works.).<br>
 *   Default Port to run an application is 8080. We can change the port of application in the `application.properties` file. Check the `application.properties` file to check port configuration changed by me.Check more details for `application.properties`  from  [here](https://www.javatpoint.com/spring-boot-properties).
 
-## Database configuration   
+##  Database configuration   
 *   Create a PostgreSQL database with the name  SPRINGBOOT_STARTER and add the credentials to application.properties. <br/>
 
 *   The default credentials and driver followed for this project :<br/>
@@ -40,27 +40,24 @@
     spring.datasource.url=jdbc:postgresql://localhost:6001/SPRINGBOOT_STARTER
     spring.datasource.username=postgres
     spring.datasource.password=root
-    spring.jpa.show-sql=true <br/>
+    spring.jpa.show-sql=true
     
-*   You can change database from postgreSQL to MySQL/Oracle by just changing these properties mentioned in `application.properties`. <br/>
+ *   You can change database from postgreSQL to MySQL/Oracle by just changing these properties mentioned in `application.properties`. <br/>
 
 ## CRUD API provided by Spring Boot Starter Project 
 
 ### 1.To Create New USER use following url with POST Request
-```
-  http://localhost:8088/user/add
+`http://localhost:8088/user/add`
   
 ### set content type as in header as application/json
 
 ### set request body as raw with JSON payload
 ```  
-    {
-    	"name": "ekta",
-    	"emailAddress": "ektatankgmail.com",
-    	"phoneNumber": "9999922222"
- 
-    }
-
+ {
+    "name": "ekta",
+    "emailAddress": "ektatankgmail.com",
+    "phoneNumber": "9999922222"
+}
 ```
 ### 2. To get list of all USER following endpoint with GET Request
 ```
