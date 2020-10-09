@@ -6,8 +6,6 @@ import org.springframework.stereotype.Repository;
 
 /**
  * User Repository  - JPA INTERFACE .
- *
- * @author <Ekta Tank>
  * @version 1.0
  * @since Oct 8, 2020
  */

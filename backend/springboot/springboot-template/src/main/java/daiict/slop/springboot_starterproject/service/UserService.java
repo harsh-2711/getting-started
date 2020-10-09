@@ -10,8 +10,6 @@ import java.util.List;
 
 /**
  * User Service - service to manipulate USER.
- *
- * @author <Ekta Tank>
  * @version 1.0
  * @since Oct 8, 2020
  */

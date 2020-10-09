@@ -9,8 +9,6 @@ import java.util.List;
 
 /**
  * User Controller - contains API to manipulate USER.
- *
- * @author <Ekta Tank>
  * @version 1.0
  * @since Oct 8, 2020
  */
