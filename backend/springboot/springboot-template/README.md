@@ -29,7 +29,7 @@
 -   [Using CLI](https://www.tutorialspoint.com/springbootcli/springbootcli_creating_project.htm)
 
 ## Creating Spring Boot Application
--    Spring Boot creates `Stane-ALone` Application. It means it is not required to install Tomcat Sever on your own (Perks of using Spring Boot 😉). Learn more about this feature from [here](https://dzone.com/articles/what-is-spring-boot#:~:text=Being%20Standalone,applications%20that%20you%20can%20run.&text=You%20may%20think%20that%20running,run%20command%20and%20everything%20works.).
+-   Spring Boot creates `Stane-ALone` Application. It means it is not required to install Tomcat Sever on your own (Perks of using Spring Boot 😉). Learn more about this feature from [here](https://dzone.com/articles/what-is-spring-boot#:~:text=Being%20Standalone,applications%20that%20you%20can%20run.&text=You%20may%20think%20that%20running,run%20command%20and%20everything%20works.).
 -   Default Port to run an application is 8080. We can change the port of application in the `application.properties` file. Check the `application.properties` file to check port configuration changed by me.Check more details for `application.properties`  from  [here](https://www.javatpoint.com/spring-boot-properties).
 
 ## Database configuration 
