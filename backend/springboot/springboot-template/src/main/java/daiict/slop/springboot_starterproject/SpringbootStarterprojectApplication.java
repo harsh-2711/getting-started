@@ -4,7 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * created by Ekta on 02/09/2020
+ * Spring Boot Main Class
+ * @version 1.0
+ * @since Oct 1, 2020
  */
 
 @SpringBootApplication

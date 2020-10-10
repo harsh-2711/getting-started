@@ -5,9 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 /**
- * HeallthController
- *
- * @author <Ekta Tank>
+ * HealthController
  * @version 1.0
  * @since Oct 1, 2020
  */
