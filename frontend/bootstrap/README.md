@@ -9,18 +9,16 @@ https://getbootstrap.com/docs/4.1/getting-started/build-tools/)
 *   You only need to know **how to reference Bootstrap on CDN.** As shown in the official [starter template](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template), the Bootstrap files can be           referenced on [BootstrapCDN.](https://www.bootstrapcdn.com/)
     Just add the link to Bootstrap CSS in the HTML ```<head>``` tag for your webpage(s)…
   
-    `<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">`
+     `<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">`
    
    Then, the optional Bootstrap Javascript is added to a  `<script>`  tag before the closing  `</body>` tag.    Bootstrap 4 also requires jQuery and Popper.js which need to be included before the Bootstrap JS.
    
- 
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js">
-    </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js">
-    </script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js">
-    </script>
-
+    <script 
+    src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script 
+    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script 
+    src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 
 ## Goal 
 *   Provide quick start template for projects with flavour of Bootstrap.
