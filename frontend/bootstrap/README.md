@@ -1,5 +1,5 @@
 ## Introduction
-* Bootstrap is one of the most popular frontend frameworks for designing websites because it’s easy for anyone with basic HTML/CSS and JavaScript knowledge to get     started; it’s mobile-first and responsive design makes sure it’s functional across devices of all sizes. 
+*   Bootstrap is one of the most popular frontend frameworks for designing websites because it’s easy for anyone with basic HTML/CSS and JavaScript knowledge to get  started; it’s mobile-first and responsive design makes sure it’s functional across devices of all sizes. 
 
 ## How to Get Started with Bootstrap
 
