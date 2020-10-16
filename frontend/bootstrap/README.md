@@ -1,5 +1,7 @@
-# Introduction
-Bootstrap is one of the most popular frontend frameworks for designing websites because it’s easy for anyone with basic HTML/CSS and JavaScript knowledge to get   started; it’s mobile-first and responsive design makes sure it’s functional across devices of all sizes. It helps you to quickly build responsive websites and has plenty of pre-built features like navbars, forms, buttons, and etc.
+## Introduction
+* Bootstrap is one of the most popular frontend frameworks for designing websites because it’s easy for anyone with basic HTML/CSS and JavaScript knowledge to get   started; it’s mobile-first and responsive design makes sure it’s functional across devices of all sizes. 
+
+* It helps you to quickly build responsive websites and has plenty of pre-built features like navbars, forms, buttons, and etc.
 
 ## How to Get Started with Bootstrap
 
@@ -13,9 +15,9 @@ https://getbootstrap.com/docs/4.1/getting-started/build-tools/)
    
     Then, the optional Bootstrap Javascript is added to a ` <script> ` tag before the closing ` </body> ` tag.
    
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 
 ## Goal 
 *   Provide quick start template for projects with flavour of Bootstrap.
