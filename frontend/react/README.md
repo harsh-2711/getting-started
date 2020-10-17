@@ -10,8 +10,11 @@
 *   __License__ − React is licensed under the Facebook Inc. Documentation is licensed under CC BY 4.0. 
 
 ## Basic Installation Required to create React Application
+
 *   [Install Node.js](https://nodejs.org/en/download/)<br/>
+
 *   [Install Visual Studio Code](https://code.visualstudio.com/download)<br/>
+
 *   Install Create-React-App package to simplify the process of creating and installing React into your projects<br/>
     `npm install -g create-react-app`
 
