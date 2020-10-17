@@ -33,7 +33,7 @@ A basic template that consists of the essential elements that are required to st
 *   Create components folder in src. create `HelloWorld.jsx` file inside components.
 *   This component contains Hello World text wrapped into header tag  and will return as a view.
 
-### `Use the Hello World React Component
+### `Use the Hello World React Component`
 *   Imports are made at the top of a React component.
 *   React components are imported into other React components before using them.
 *   To use Hello World component instead of default App.js do changes in index.js.
