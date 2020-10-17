@@ -11,6 +11,7 @@ A basic template that consists of the essential elements that are required to st
 *   Command to create React App<br/>
 
     `npx create-react-app react-template`<br/>
+    
   
 *   This command will generates  all of the files, folders, and libraries needed, as well as automatically configure React App.
 
@@ -22,7 +23,7 @@ A basic template that consists of the essential elements that are required to st
  
 ### `Run the React App`
 
-*  Start the React app by typing npm start into the terminal at root folder level.
+* Start the React app by typing npm start into the terminal at root folder level.
  
 * Changes made to the React app code are automatically shown in the browser thanks to hot reloading.
  
@@ -33,11 +34,12 @@ A basic template that consists of the essential elements that are required to st
 ### `Understand the Folder Structure`
 
 *   There are three top level sub-folders:
-    * __/node_modules:__ Where all of the external libraries used to piece together the React app are located. You shouldn’t modify any of the code inside this folder as that would be modifying a third party library, and your changes would be overwritten the next time you run the npm install command.
+
+ * __/node_modules:__ Where all of the external libraries used to piece together the React app are located. You shouldn’t modify any of the code inside this folder as that would be modifying a third party library, and your changes would be overwritten the next time you run the npm install command.
     
-    * -__/public:__ Assets that aren’t compiled or dynamically generated are stored here. These can be static assets like logos or the robots.txt  file.
+ *   __/public:__ Assets that aren’t compiled or dynamically generated are stored here. These can be static assets like logos or the robots.txt  file.
     
-    * __/src:__  The src, or source folder contains all of our React components, external CSS files, and dynamic assets that we’ll bring into our component files.
+ *   __/src:__  The src, or source folder contains all of our React components, external CSS files, and dynamic assets that we’ll bring into our component files.
     
 *   At a high level React has one index.html page that contains a single div element (the root node). When a React app compiles, it mounts the entry component — App.js(default) — to that root node using JavaScript.
 
