@@ -1,7 +1,7 @@
 ## Introduction
 -   Bootstrap is one of the most popular frontend frameworks for designing websites because it’s easy for anyone with basic HTML/CSS and JavaScript knowledge to get  started; it’s mobile-first and responsive design makes sure it’s functional across devices of all sizes.
 
-## How to Get Started with Bootstrap
+## Getting Started
 
 -   Some people will ask or explain “How to install Bootstrap”. Well, one doesn’t really need to “install” it. *Using* Bootstrap is a matter of referencing the appropriate CSS and/or JS files. You might have a build process or development environment that utilizes tools such as NPM or Nuget in which case you'll want [read the docs.](
 https://getbootstrap.com/docs/4.1/getting-started/build-tools/)
