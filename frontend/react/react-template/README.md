@@ -10,6 +10,7 @@ A basic template that consists of the essential elements that are required to st
 +   Command to create React App
     +   `npx create-react-app react-template`    
     
+    
 +   This command will generates  all of the files, folders, and libraries needed, as well as automatically configure React App.
 
 
