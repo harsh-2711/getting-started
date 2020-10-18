@@ -8,16 +8,17 @@ A basic template that consists of the essential elements that are required to st
 +   If we wants to spend more time coding and less time configuring then the best way to create React appliation is to use [Create React App tool](https://github.com/facebook/create-react-app).
 
 +   Command to create React App
-    - `npx create-react-app react-template`
+    +   `npx create-react-app react-template`
+    
     
 +   This command will generates  all of the files, folders, and libraries needed, as well as automatically configure React App.
 
 +   Once Create React App has finished downloading all of the required packages, modules and scripts, it will configure webpack and new folder      named react-template will be created.
 
 +   To open project in vscode first move to project folder and run following command.
-    -   `cd react-template`
+    +   `cd react-template`
     
-    -   `. code `
+    +   `. code `
     
 ### `Run the React App`
 +   Start the React app by typing npm start into the terminal at root folder level.
@@ -30,11 +31,11 @@ A basic template that consists of the essential elements that are required to st
  
 ### `Understand the Folder Structure`
 +   There are three top level sub-folders:
-    -   __/node_modules:__ Where all of the external libraries used to piece together the React app are located. You shouldn’t modify any of the code inside this folder as that would be modifying a third party library, and your changes would be overwritten the next time you run the npm install command.
+    +   __/node_modules:__ Where all of the external libraries used to piece together the React app are located. You shouldn’t modify any of the code inside this folder as that would be modifying a third party library, and your changes would be overwritten the next time you run the npm install command.
     
-    -   __/public:__ Assets that aren’t compiled or dynamically generated are stored here. These can be static assets like logos or the robots.txt  file.
+    +   __/public:__ Assets that aren’t compiled or dynamically generated are stored here. These can be static assets like logos or the robots.txt  file.
     
-    -   __/src:__  The src, or source folder contains all of our React components, external CSS files, and dynamic assets that we’ll bring into our component files.
+    +   __/src:__  The src, or source folder contains all of our React components, external CSS files, and dynamic assets that we’ll bring into our component files.
     
 +   At a high level React has one index.html page that contains a single div element (the root node). When a React app compiles, it mounts the entry component — App.js(default) — to that root node using JavaScript.
 
