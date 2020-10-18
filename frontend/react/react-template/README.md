@@ -8,10 +8,10 @@ A basic template that consists of the essential elements that are required to st
 +   If we wants to spend more time coding and less time configuring then the best way to create React appliation is to use [Create React App tool](https://github.com/facebook/create-react-app).
 
 +   Command to create React App
-    +   `npx create-react-app react-template`
-    
+    +   `npx create-react-app react-template`    
     
 +   This command will generates  all of the files, folders, and libraries needed, as well as automatically configure React App.
+
 
 +   Once Create React App has finished downloading all of the required packages, modules and scripts, it will configure webpack and new folder      named react-template will be created.
 
