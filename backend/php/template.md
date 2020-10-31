@@ -1,3 +1,5 @@
+## Starter Template
+
 ```
 <?php
 	switch ($_SERVER["SCRIPT_NAME"]) {
@@ -17,3 +19,5 @@
 ```
 In this example, the config file detects which page you’re on, and sets some variables that will later display that content. If you’re using a database, the connection string would also go here.
 Back to the template, you’ll notice I put everything in the HEAD tag in its own separate file.
+
+### Contents imported to the HEAD tag: 
