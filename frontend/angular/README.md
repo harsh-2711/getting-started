@@ -5,10 +5,8 @@ If you are a beginner for Angular and wonder how to start, This article is for y
 
 ## How to get started with Angular
 
--   Install [Nodejs](https://nodejs.org/en/download/) 
-
+-   Install [Nodejs](https://nodejs.org/en/download/)
 -   Install Angular CLI
-
 -   Install Typescript globally
 
   Once you install nodejs and we need to install Angular cli and typescript globally with the following commands.
@@ -25,7 +23,3 @@ If you are a beginner for Angular and wonder how to start, This article is for y
 -   Basic understanding of Typescript/Javascript
 
 -   Basic knowledge about Angular
-
-
-
-
