@@ -16,10 +16,8 @@ If you are a beginner for Angular and wonder how to start, This article is for y
   
 ## Goal
 -   Provide quick start template for projects with flavour of Bootstrap.
-
 -   Provide a range of features that are common to large classes of projects.
 
 ## Pre-requisites
 -   Basic understanding of Typescript/Javascript
-
 -   Basic knowledge about Angular
