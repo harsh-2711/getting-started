@@ -10,7 +10,7 @@ If you are a beginner for Angular and wonder how to start, This article is for y
 -   Install Angular CLI
 
         npm install -g @angular/cli
-        
+                                                                                                                                                                                   
 -   Install Typescript globally
 
         npm install -g typescript 
