@@ -7,17 +7,12 @@ If you are a beginner for Angular and wonder how to start, This article is for y
 
 -   Install [Nodejs](https://nodejs.org/en/download/)
 -   Install Angular CLI
+
+        npm install -g @angular/cli
 -   Install Typescript globally
 
-  Once you install nodejs and we need to install Angular cli and typescript globally with the following commands.
-  
-    npm install -g @angular/cli
-    npm install -g typescript 
+        npm install -g typescript 
   
 ## Goal
--   Provide quick start template for projects with flavour of Bootstrap.
--   Provide a range of features that are common to large classes of projects.
-
-## Pre-requisites
--   Basic understanding of Typescript/Javascript
--   Basic knowledge about Angular
+-   Building the foundation of an Angular.
+-   Get acquainted and explore other features of angular like routing, NGRX store, etc.
