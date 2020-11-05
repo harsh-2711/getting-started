@@ -6,9 +6,11 @@ If you are a beginner for Angular and wonder how to start, This article is for y
 ## How to get started with Angular
 
 -   Install [Nodejs](https://nodejs.org/en/download/)
+
 -   Install Angular CLI
 
         npm install -g @angular/cli
+        
 -   Install Typescript globally
 
         npm install -g typescript 
